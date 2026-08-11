@@ -1,0 +1,345 @@
+{
+ "updated_at": "2026-08-11T23:11:59Z",
+ "count": 16,
+ "signals": [
+  {
+   "symbol": "LINKUSDT",
+   "base": "LINK",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 7.4,
+   "verdict": "خرید",
+   "price": 8.761,
+   "change24h": 5.48,
+   "support": 8.595,
+   "resistance": 8.916,
+   "rsi": 71.38,
+   "macd_hist": 0.04468279782300809,
+   "vol_ratio": 1.57,
+   "notes": [
+    "روند صعودی",
+    "مومنتوم MACD مثبت",
+    "کمی اشباع خرید"
+   ],
+   "time": "2026-08-11T23:11:24Z"
+  },
+  {
+   "symbol": "CRCLBUSDT",
+   "base": "CRCLB",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.9,
+   "verdict": "خرید",
+   "price": 71.15,
+   "change24h": 6.5,
+   "support": 70.19,
+   "resistance": 72.59,
+   "rsi": 70.57,
+   "macd_hist": 0.26243958017444,
+   "vol_ratio": 0.25,
+   "notes": [
+    "روند صعودی",
+    "مومنتوم MACD مثبت",
+    "کمی اشباع خرید"
+   ],
+   "time": "2026-08-11T23:11:48Z"
+  },
+  {
+   "symbol": "SOLUSDT",
+   "base": "SOL",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.3,
+   "verdict": "خرید",
+   "price": 76.24,
+   "change24h": 0.08,
+   "support": 75.54333333333334,
+   "resistance": 77.67647058823529,
+   "rsi": 54.43,
+   "macd_hist": -0.1743859272045808,
+   "vol_ratio": 1.14,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی"
+   ],
+   "time": "2026-08-11T23:10:57Z"
+  },
+  {
+   "symbol": "BNBUSDT",
+   "base": "BNB",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.3,
+   "verdict": "خرید",
+   "price": 613.89,
+   "change24h": 2.4,
+   "support": 597.32,
+   "resistance": 614.98,
+   "rsi": 69.04,
+   "macd_hist": 0.7447027173539231,
+   "vol_ratio": 0.79,
+   "notes": [
+    "روند صعودی",
+    "مومنتوم MACD مثبت",
+    "کمی اشباع خرید"
+   ],
+   "time": "2026-08-11T23:11:00Z"
+  },
+  {
+   "symbol": "RADUSDT",
+   "base": "RAD",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.2,
+   "verdict": "خرید",
+   "price": 0.258,
+   "change24h": -1.89,
+   "support": 0.21166666666666667,
+   "resistance": 0.324,
+   "rsi": 57.3,
+   "macd_hist": 0.005154413421320106,
+   "vol_ratio": 0.83,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی"
+   ],
+   "time": "2026-08-11T23:11:51Z"
+  },
+  {
+   "symbol": "SKHYBUSDT",
+   "base": "SKHYB",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.9,
+   "verdict": "خنثی",
+   "price": 141.51,
+   "change24h": 4.76,
+   "support": 141.36,
+   "resistance": 142.51,
+   "rsi": 56.76,
+   "macd_hist": 0.6849961502475455,
+   "vol_ratio": 0.48,
+   "notes": [
+    "مومنتوم MACD مثبت",
+    "RSI سالم صعودی",
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-08-11T23:11:58Z"
+  },
+  {
+   "symbol": "TRXUSDT",
+   "base": "TRX",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.6,
+   "verdict": "خنثی",
+   "price": 0.3351,
+   "change24h": 1.33,
+   "support": 0.3262592592592593,
+   "resistance": 0.3376,
+   "rsi": 71.16,
+   "macd_hist": 0.0004742876612761982,
+   "vol_ratio": 0.38,
+   "notes": [
+    "روند صعودی",
+    "کمی اشباع خرید"
+   ],
+   "time": "2026-08-11T23:11:13Z"
+  },
+  {
+   "symbol": "ZECUSDT",
+   "base": "ZEC",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.5,
+   "verdict": "خنثی",
+   "price": 479.16,
+   "change24h": -3.29,
+   "support": 478.04,
+   "resistance": 479.5,
+   "rsi": 34.97,
+   "macd_hist": -3.8690120483587407,
+   "vol_ratio": 0.75,
+   "notes": [
+    "روند نزولی",
+    "نزدیک اشباع فروش",
+    "ریسک/بازده شورت خوب (نزدیک مقاومت، فضای تا حمایت)"
+   ],
+   "time": "2026-08-11T23:11:07Z"
+  },
+  {
+   "symbol": "UUSDT",
+   "base": "U",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.4,
+   "verdict": "خنثی",
+   "price": 1.0001,
+   "change24h": -0.02,
+   "support": 0.99995,
+   "resistance": 1.000978947368421,
+   "rsi": 45.95,
+   "macd_hist": -1.4959260146043566e-05,
+   "vol_ratio": 0.64,
+   "notes": [
+    "روند نزولی"
+   ],
+   "time": "2026-08-11T23:11:44Z"
+  },
+  {
+   "symbol": "XAUTUSDT",
+   "base": "XAUT",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.3,
+   "verdict": "خنثی",
+   "price": 4349.4,
+   "change24h": -0.55,
+   "support": 4341.35,
+   "resistance": 4411.53,
+   "rsi": 56.44,
+   "macd_hist": -5.410168026045671,
+   "vol_ratio": 0.35,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی",
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-08-11T23:11:29Z"
+  },
+  {
+   "symbol": "PAXGUSDT",
+   "base": "PAXG",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.3,
+   "verdict": "خنثی",
+   "price": 4364.31,
+   "change24h": -0.62,
+   "support": 4357.14,
+   "resistance": 4429.42,
+   "rsi": 56.32,
+   "macd_hist": -5.55005195194488,
+   "vol_ratio": 0.43,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی",
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-08-11T23:11:35Z"
+  },
+  {
+   "symbol": "SUIUSDT",
+   "base": "SUI",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.3,
+   "verdict": "خنثی",
+   "price": 0.6921,
+   "change24h": 1.04,
+   "support": 0.6781809523809523,
+   "resistance": 0.697609090909091,
+   "rsi": 52.88,
+   "macd_hist": -0.0007753984976593105,
+   "vol_ratio": 0.9,
+   "notes": [
+    "ریسک/بازده شورت خوب (نزدیک مقاومت، فضای تا حمایت)"
+   ],
+   "time": "2026-08-11T23:11:56Z"
+  },
+  {
+   "symbol": "XRPUSDT",
+   "base": "XRP",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.2,
+   "verdict": "خنثی",
+   "price": 1.0199,
+   "change24h": 0.69,
+   "support": 1.0121,
+   "resistance": 1.048175,
+   "rsi": 44.72,
+   "macd_hist": -0.0005021228010391645,
+   "vol_ratio": 1.12,
+   "notes": [
+    "روند نزولی"
+   ],
+   "time": "2026-08-11T23:11:03Z"
+  },
+  {
+   "symbol": "SNDKBUSDT",
+   "base": "SNDKB",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.0,
+   "verdict": "خنثی",
+   "price": 1279.19,
+   "change24h": 3.73,
+   "support": 1232.16,
+   "resistance": 1287.21,
+   "rsi": 60.14,
+   "macd_hist": 7.95329439010329,
+   "vol_ratio": 0.32,
+   "notes": [
+    "مومنتوم MACD مثبت",
+    "RSI سالم صعودی"
+   ],
+   "time": "2026-08-11T23:11:19Z"
+  },
+  {
+   "symbol": "BABYUSDT",
+   "base": "BABY",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.0,
+   "verdict": "خنثی",
+   "price": 0.01294,
+   "change24h": 0.54,
+   "support": 0.012842000000000001,
+   "resistance": 0.012965,
+   "rsi": 55.46,
+   "macd_hist": -6.778614257394496e-05,
+   "vol_ratio": 1.0,
+   "notes": [
+    "مومنتوم MACD منفی",
+    "ریسک/بازده شورت خوب (نزدیک مقاومت، فضای تا حمایت)"
+   ],
+   "time": "2026-08-11T23:11:21Z"
+  },
+  {
+   "symbol": "NEARUSDT",
+   "base": "NEAR",
+   "side": "short",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.0,
+   "verdict": "خنثی",
+   "price": 1.603,
+   "change24h": 0.38,
+   "support": 1.592,
+   "resistance": 1.617,
+   "rsi": 46.77,
+   "macd_hist": -0.0013044629852739381,
+   "vol_ratio": 0.58,
+   "notes": [
+    "روند نزولی"
+   ],
+   "time": "2026-08-11T23:11:39Z"
+  }
+ ]
+}
