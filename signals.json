@@ -1,97 +1,7 @@
 {
- "updated_at": "2026-10-10T12:06:39Z",
- "count": 14,
+ "updated_at": "2026-10-10T21:20:01Z",
+ "count": 12,
  "signals": [
-  {
-   "symbol": "QNTUSDT",
-   "base": "QNT",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 7.3,
-   "verdict": "خرید",
-   "price": 248.28,
-   "change24h": -0.09,
-   "support": 246.68,
-   "resistance": 256.25,
-   "rsi": 50.94,
-   "macd_hist": 1.0953388431940554,
-   "vol_ratio": 0.0,
-   "notes": [
-    "روند صعودی",
-    "مومنتوم MACD مثبت",
-    "RSI سالم صعودی",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:03:41Z"
-  },
-  {
-   "symbol": "ADAUSDT",
-   "base": "ADA",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 7.1,
-   "verdict": "خرید",
-   "price": 0.2551,
-   "change24h": 6.47,
-   "support": 0.253,
-   "resistance": 0.2594,
-   "rsi": 56.41,
-   "macd_hist": 0.002108953745462257,
-   "vol_ratio": 0.01,
-   "notes": [
-    "روند صعودی",
-    "مومنتوم MACD مثبت",
-    "RSI سالم صعودی"
-   ],
-   "time": "2026-10-10T12:03:27Z"
-  },
-  {
-   "symbol": "ADA_IRT",
-   "base": "ADA",
-   "side": "buy",
-   "provider": "nobitex",
-   "currency": "irt",
-   "rating": 6.9,
-   "verdict": "خرید",
-   "price": 67782.0,
-   "change24h": 5.57,
-   "support": 67723.3333,
-   "resistance": 67918.3333,
-   "rsi": 55.0,
-   "macd_hist": 397.20393968265967,
-   "vol_ratio": 0.82,
-   "notes": [
-    "روند صعودی",
-    "مومنتوم MACD مثبت",
-    "RSI سالم صعودی"
-   ],
-   "time": "2026-10-10T12:04:27Z"
-  },
-  {
-   "symbol": "MAGICUSDT",
-   "base": "MAGIC",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 6.8,
-   "verdict": "خرید",
-   "price": 0.1127,
-   "change24h": 49.54,
-   "support": 0.098,
-   "resistance": 0.1639,
-   "rsi": 62.87,
-   "macd_hist": 0.004244819604295333,
-   "vol_ratio": 0.03,
-   "notes": [
-    "روند صعودی",
-    "RSI سالم صعودی",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)",
-    "رشد سریع — ریسک دنبال کردن"
-   ],
-   "time": "2026-10-10T12:03:22Z"
-  },
   {
    "symbol": "SUIUSDT",
    "base": "SUI",
@@ -100,19 +10,84 @@
    "currency": "usdt",
    "rating": 6.5,
    "verdict": "خرید",
-   "price": 1.1183,
-   "change24h": 4.53,
+   "price": 1.1221,
+   "change24h": 5.26,
    "support": 1.1125,
-   "resistance": 1.1468,
-   "rsi": 52.4,
-   "macd_hist": 0.00874772490394254,
-   "vol_ratio": 0.01,
+   "resistance": 1.14,
+   "rsi": 53.21,
+   "macd_hist": 0.010243124949689996,
+   "vol_ratio": 0.09,
    "notes": [
     "مومنتوم MACD مثبت",
+    "RSI سالم صعودی"
+   ],
+   "time": "2026-10-10T21:17:02Z"
+  },
+  {
+   "symbol": "LUMIAUSDT",
+   "base": "LUMIA",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.5,
+   "verdict": "خرید",
+   "price": 0.1054,
+   "change24h": 29.8,
+   "support": 0.0893,
+   "resistance": 0.1394,
+   "rsi": 61.15,
+   "macd_hist": 0.0029416824880636773,
+   "vol_ratio": 0.18,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی",
+    "رشد سریع — ریسک دنبال کردن"
+   ],
+   "time": "2026-10-10T21:17:09Z"
+  },
+  {
+   "symbol": "WLD_IRT",
+   "base": "WLD",
+   "side": "buy",
+   "provider": "nobitex",
+   "currency": "irt",
+   "rating": 6.5,
+   "verdict": "خرید",
+   "price": 148681.0,
+   "change24h": 9.91,
+   "support": 148546.0,
+   "resistance": 149549.6667,
+   "rsi": 60.85,
+   "macd_hist": 2201.0935613652737,
+   "vol_ratio": 0.08,
+   "notes": [
+    "روند صعودی",
     "RSI سالم صعودی",
     "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
    ],
-   "time": "2026-10-10T12:03:23Z"
+   "time": "2026-10-10T21:18:49Z"
+  },
+  {
+   "symbol": "MAGICUSDT",
+   "base": "MAGIC",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 6.3,
+   "verdict": "خرید",
+   "price": 0.0996,
+   "change24h": -20.8,
+   "support": 0.098,
+   "resistance": 0.1639,
+   "rsi": 55.85,
+   "macd_hist": 0.0007208626781893268,
+   "vol_ratio": 0.15,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی",
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-10-10T21:17:00Z"
   },
   {
    "symbol": "NEAR_IRT",
@@ -120,152 +95,21 @@
    "side": "buy",
    "provider": "nobitex",
    "currency": "irt",
-   "rating": 6.5,
+   "rating": 6.1,
    "verdict": "خرید",
-   "price": 1409407.0,
-   "change24h": 9.18,
-   "support": 1408700.0,
-   "resistance": 1412921.3333,
-   "rsi": 59.09,
-   "macd_hist": 9737.634046492825,
-   "vol_ratio": 1.03,
+   "price": 1429020.0,
+   "change24h": 12.7,
+   "support": 1425717.0,
+   "resistance": 1434249.75,
+   "rsi": 60.34,
+   "macd_hist": 15093.459879431655,
+   "vol_ratio": 0.16,
    "notes": [
     "روند صعودی",
     "مومنتوم MACD مثبت",
-    "RSI سالم صعودی",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:04:54Z"
-  },
-  {
-   "symbol": "ORCA_IRT",
-   "base": "ORCA",
-   "side": "buy",
-   "provider": "nobitex",
-   "currency": "irt",
-   "rating": 6.5,
-   "verdict": "خرید",
-   "price": 680000.0,
-   "change24h": 3.2,
-   "support": 676773.5,
-   "resistance": 688943.5,
-   "rsi": 55.48,
-   "macd_hist": -9535.979114507385,
-   "vol_ratio": 1.52,
-   "notes": [
-    "روند صعودی",
-    "RSI سالم صعودی",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:05:35Z"
-  },
-  {
-   "symbol": "ATOM_IRT",
-   "base": "ATOM",
-   "side": "buy",
-   "provider": "nobitex",
-   "currency": "irt",
-   "rating": 6.4,
-   "verdict": "خرید",
-   "price": 516851.0,
-   "change24h": -3.73,
-   "support": 514836.3333,
-   "resistance": 554089.0,
-   "rsi": 58.37,
-   "macd_hist": 2838.950809562559,
-   "vol_ratio": 0.46,
-   "notes": [
-    "روند صعودی",
-    "RSI سالم صعودی",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:05:39Z"
-  },
-  {
-   "symbol": "STRKUSDT",
-   "base": "STRK",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 6.1,
-   "verdict": "خرید",
-   "price": 0.07103,
-   "change24h": -2.51,
-   "support": 0.0685,
-   "resistance": 0.0777,
-   "rsi": 65.54,
-   "macd_hist": 0.0006371883807908124,
-   "vol_ratio": 0.0,
-   "notes": [
-    "روند صعودی",
-    "کمی اشباع خرید",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:03:29Z"
-  },
-  {
-   "symbol": "TRXUSDT",
-   "base": "TRX",
-   "side": "short",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 6.1,
-   "verdict": "شورت",
-   "price": 0.3312,
-   "change24h": -0.6,
-   "support": 0.3276,
-   "resistance": 0.3321,
-   "rsi": 35.76,
-   "macd_hist": -0.0001770326897299338,
-   "vol_ratio": 0.01,
-   "notes": [
-    "روند نزولی",
-    "نزدیک اشباع فروش",
-    "ریسک/بازده شورت خوب (نزدیک مقاومت، فضای تا حمایت)"
-   ],
-   "time": "2026-10-10T12:03:32Z"
-  },
-  {
-   "symbol": "STRK_IRT",
-   "base": "STRK",
-   "side": "buy",
-   "provider": "nobitex",
-   "currency": "irt",
-   "rating": 5.9,
-   "verdict": "خنثی",
-   "price": 18886.0,
-   "change24h": -2.48,
-   "support": 18830.5,
-   "resistance": 19014.3333,
-   "rsi": 64.38,
-   "macd_hist": 240.655623864139,
-   "vol_ratio": 0.26,
-   "notes": [
-    "روند صعودی",
     "RSI سالم صعودی"
    ],
-   "time": "2026-10-10T12:04:58Z"
-  },
-  {
-   "symbol": "AVAXUSDT",
-   "base": "AVAX",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "rating": 5.8,
-   "verdict": "خنثی",
-   "price": 10.568,
-   "change24h": 1.68,
-   "support": 10.528,
-   "resistance": 10.677,
-   "rsi": 47.95,
-   "macd_hist": 0.035778764183338585,
-   "vol_ratio": 0.0,
-   "notes": [
-    "مومنتوم MACD مثبت",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
-   ],
-   "time": "2026-10-10T12:03:30Z"
+   "time": "2026-10-10T21:17:56Z"
   },
   {
    "symbol": "BTCUSDT",
@@ -273,20 +117,126 @@
    "side": "buy",
    "provider": "binance",
    "currency": "usdt",
-   "rating": 5.4,
+   "rating": 5.9,
    "verdict": "خنثی",
-   "price": 82861.34,
-   "change24h": -0.45,
-   "support": 82602.975,
+   "price": 83046.0,
+   "change24h": 0.57,
+   "support": 82734.7057,
    "resistance": 83528.98,
-   "rsi": 45.57,
-   "macd_hist": 124.2267124212118,
-   "vol_ratio": 0.01,
+   "rsi": 47.61,
+   "macd_hist": 155.97841511717007,
+   "vol_ratio": 0.13,
    "notes": [
+    "مومنتوم MACD مثبت"
+   ],
+   "time": "2026-10-10T21:16:55Z"
+  },
+  {
+   "symbol": "STRKUSDT",
+   "base": "STRK",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.9,
+   "verdict": "خنثی",
+   "price": 0.10378,
+   "change24h": 49.53,
+   "support": 0.069,
+   "resistance": null,
+   "rsi": 84.08,
+   "macd_hist": 0.0036157295904074953,
+   "vol_ratio": 0.46,
+   "notes": [
+    "روند صعودی",
     "مومنتوم MACD مثبت",
+    "اشباع خرید شدید",
+    "رشد سریع — ریسک دنبال کردن"
+   ],
+   "time": "2026-10-10T21:16:59Z"
+  },
+  {
+   "symbol": "ENAUSDT",
+   "base": "ENA",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.9,
+   "verdict": "خنثی",
+   "price": 0.2226,
+   "change24h": 3.63,
+   "support": 0.22,
+   "resistance": 0.2269,
+   "rsi": 49.62,
+   "macd_hist": 0.002008550755104245,
+   "vol_ratio": 0.17,
+   "notes": [
+    "مومنتوم MACD مثبت"
+   ],
+   "time": "2026-10-10T21:17:07Z"
+  },
+  {
+   "symbol": "WAL_IRT",
+   "base": "WAL",
+   "side": "buy",
+   "provider": "nobitex",
+   "currency": "irt",
+   "rating": 5.8,
+   "verdict": "خنثی",
+   "price": 9582.0,
+   "change24h": 6.1,
+   "support": 9580.5,
+   "resistance": 9623.0,
+   "rsi": 53.36,
+   "macd_hist": 60.15458510959597,
+   "vol_ratio": 0.37,
+   "notes": [
+    "روند صعودی",
+    "RSI سالم صعودی",
     "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
    ],
-   "time": "2026-10-10T12:03:18Z"
+   "time": "2026-10-10T21:18:27Z"
+  },
+  {
+   "symbol": "QNTUSDT",
+   "base": "QNT",
+   "side": "buy",
+   "provider": "binance",
+   "currency": "usdt",
+   "rating": 5.3,
+   "verdict": "خنثی",
+   "price": 241.03,
+   "change24h": -2.3,
+   "support": 235.83,
+   "resistance": 255.8333,
+   "rsi": 45.07,
+   "macd_hist": 0.2520222285356011,
+   "vol_ratio": 0.1,
+   "notes": [
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-10-10T21:17:12Z"
+  },
+  {
+   "symbol": "ETH_IRT",
+   "base": "ETH",
+   "side": "buy",
+   "provider": "nobitex",
+   "currency": "irt",
+   "rating": 5.2,
+   "verdict": "خنثی",
+   "price": 664900006.0,
+   "change24h": 0.57,
+   "support": 664790022.0,
+   "resistance": 665999988.6667,
+   "rsi": 38.49,
+   "macd_hist": 1409172.0894736312,
+   "vol_ratio": 0.05,
+   "notes": [
+    "مومنتوم MACD مثبت",
+    "نزدیک اشباع فروش",
+    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+   ],
+   "time": "2026-10-10T21:18:00Z"
   },
   {
    "symbol": "BNBUSDT",
@@ -294,50 +244,20 @@
    "side": "buy",
    "provider": "binance",
    "currency": "usdt",
-   "rating": 5.4,
+   "rating": 5.1,
    "verdict": "خنثی",
-   "price": 748.44,
-   "change24h": 0.75,
-   "support": 746.0067,
-   "resistance": 758.5333,
-   "rsi": 43.14,
-   "macd_hist": 1.2926356463281046,
-   "vol_ratio": 0.01,
+   "price": 750.85,
+   "change24h": 1.17,
+   "support": 747.1225,
+   "resistance": 757.365,
+   "rsi": 45.45,
+   "macd_hist": 1.9626852259308443,
+   "vol_ratio": 0.13,
    "notes": [
-    "مومنتوم MACD مثبت",
-    "ریسک/بازده خوب (نزدیک حمایت، فضای تا مقاومت)"
+    "مومنتوم MACD مثبت"
    ],
-   "time": "2026-10-10T12:03:24Z"
+   "time": "2026-10-10T21:17:04Z"
   }
  ],
- "active": [
-  {
-   "symbol": "MAGICUSDT",
-   "side": "buy",
-   "provider": "binance",
-   "currency": "usdt",
-   "price": 0.1084,
-   "entry": 0.1084,
-   "stop_loss": 0.09112060000000001,
-   "target_1": 0.1639,
-   "target_2": 0.17765879999999998,
-   "tp1_hit": false,
-   "rating": 6.8,
-   "time": 1791633940.0663478
-  },
-  {
-   "symbol": "MAGIC_IRT",
-   "side": "buy",
-   "provider": "nobitex",
-   "currency": "irt",
-   "price": 29700.0,
-   "entry": 29700.0,
-   "stop_loss": 27402.92858367667,
-   "target_1": 43499.0,
-   "target_2": 47136.47616598,
-   "tp1_hit": false,
-   "rating": 6.6,
-   "time": 1791633940.0663478
-  }
- ]
+ "active": []
 }
